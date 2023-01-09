@@ -20,7 +20,6 @@ console.log(3
     //undifined =>
     //symbol => unique
 
-
     //object
 
     console.log(typeof undefined); //undefined
